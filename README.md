@@ -1,2 +1,2 @@
 # my-repository
-ini adalah repository file yang saya upload
+ini adalah repository file yang saya upload untuk latihan
